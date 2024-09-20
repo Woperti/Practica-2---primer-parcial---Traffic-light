@@ -17,3 +17,4 @@ Crear lo siguiente:
 Salida del programa
 
 ![Salida](./semaforo.gif)
+
