@@ -3,10 +3,10 @@
 Crear lo siguiente:
 
 ## Diseno
-![Diseno](./diseno.png)
+![Diseno](./Diseno.png)
 
 ## Bloques: 
-![Bloques](./bloques.png)
+![Bloques](./Bloques.png)
 
 Salida del programa
 
